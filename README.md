@@ -1,5 +1,5 @@
 # Ava.City 2.0
-Тестовый сервер: https://ava.city
+Тестовый сервер: https://avaCITY
 
 Регистрация через Telegram: https://t.me/avacity_test_bot (@avacity_test_bot)
 
